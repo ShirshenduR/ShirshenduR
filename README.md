@@ -8,11 +8,12 @@ Welcome to my Portfolio. I'm passionate about Coding, and I enjoy coding.
 ## 🌟 About Me
 
 I'm on a journey to become a Software Engineer. When I'm not coding, you'll find me listening to music on Spotify.
-
+Currently I am pursuing my B.Tech from Indian Institute Of Information Technology Jabalpur
 ## 🔗 Connect with Me
 
 [![GitHub](https://img.icons8.com/ios/50/00ffff/github.png)](https://github.com/ShirshenduR)
 [![Twitter](https://img.icons8.com/ios/50/00ffff/twitter-circled.png)](https://twitter.com/Shirshendu_R)
+[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/shirshendu-r-tripathi-84b481324?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDdSVelOIQVOrnYz6hz4qgA%3D%3D)
 
 ## 📫 Get in Touch
 
