@@ -29,5 +29,8 @@ I'm currently learning coding. Exciting discoveries ahead!
 
 I'm always open to interesting conversations and collaboration. Connect with me, and let's create something amazing together!
 
+
+[![](https://visitcount.itsvg.in/api?id=ShirshenduR&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 Thanks for dropping by! 😊✨
 
