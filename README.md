@@ -13,7 +13,7 @@ Currently I am pursuing my B.Tech from Indian Institute Of Information Technolog
 
 [![GitHub](https://img.icons8.com/ios/50/00ffff/github.png)](https://github.com/ShirshenduR)
 [![Twitter](https://img.icons8.com/ios/50/00ffff/twitter-circled.png)](https://twitter.com/Shirshendu_R)
-[![LinkedIn](https://img.icons8.com/?size=100&id=447&format=png&color=00ffff)](https://www.linkedin.com/in/shirshendu-r-tripathi-84b481324?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDdSVelOIQVOrnYz6hz4qgA%3D%3D)
+[![LinkedIn](https://img.icons8.com/?size=50&id=447&format=png&color=00ffff)](https://www.linkedin.com/in/shirshendu-r-tripathi-84b481324?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDdSVelOIQVOrnYz6hz4qgA%3D%3D)
 
 ## 📫 Get in Touch
 
