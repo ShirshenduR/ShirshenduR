@@ -25,6 +25,12 @@ I'm currently learning coding. Exciting discoveries ahead!
 
 ## Profile Stats
 ![Shirshendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShirshenduR&show_icons=true&theme=transparent)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShirshenduR&theme=shades-of-bluee&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshenduR&theme=shades-of-bluee&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShirshenduR&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## 🤝 Let's Connect
 
 I'm always open to interesting conversations and collaboration. Connect with me, and let's create something amazing together!
