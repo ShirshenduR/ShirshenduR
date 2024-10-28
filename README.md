@@ -26,6 +26,8 @@ I'm currently learning coding. Exciting discoveries ahead!
 ## Profile Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShirshenduR&theme=transparent&hide_border=false)<br/>
 
+[![An image of @shirshendur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shirshendur)](https://holopin.io/@shirshendur)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShirshenduR&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
