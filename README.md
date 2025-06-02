@@ -39,7 +39,7 @@ Currently pursuing my **B.Tech at IIIT Jabalpur**. When not coding, I’m jammin
 
 ## 🌱 Currently Learning
 
-Full-stack web development and AI/ML*.
+*Full-stack web development and AI/ML*.
 
 ---
 
