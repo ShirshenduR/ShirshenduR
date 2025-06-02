@@ -50,14 +50,23 @@ Outside of code, I vibe to music on Spotify and dive into open-source.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub: https://github.com/ShirshenduR" title="GitHub: https://github.com/ShirshenduR"/>
-  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn: https://linkedin.com/in/shirshendu-r-tripathi-84b481324" title="LinkedIn: https://linkedin.com/in/shirshendu-r-tripathi-84b481324"/>
-  <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter: https://twitter.com/Shirshendu_R" title="Twitter: https://twitter.com/Shirshendu_R"/>
-  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email: shirsh8924@gmail.com" title="Email: shirsh8924@gmail.com"/>
+  <a href="https://github.com/ShirshenduR">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/shirshendu-r-tripathi-84b481324">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/Shirshendu_R">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:shirsh8924@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
 
 ---
 
