@@ -68,6 +68,12 @@ Outside of code, I vibe to music on Spotify and dive into open-source.
   </a>
 </p>
 
+## 🏅 Holopin Badges
+
+[![Holopin](https://holopin.me/shirshendur)](https://holopin.io/@shirshendur)
+
+---
+
 
 ---
 
