@@ -43,8 +43,8 @@ Outside of code, I vibe to music on Spotify and dive into open-source.
 
 ## 🌱 Currently Learning
 
-- MERN Stack backend in depth
-- AI/ML tools for intelligent applications
+- MERN Stack backend in depth  
+- AI/ML tools for intelligent applications  
 - Token-based authentication & microservices
 
 ---
@@ -53,15 +53,9 @@ Outside of code, I vibe to music on Spotify and dive into open-source.
 
 ![Shirshendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShirshenduR&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShirshenduR&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshenduR&layout=compact&theme=tokyonight)
 
----
-
-## 🐍 My Contributions
-
-![snake gif](https://github.com/ShirshenduR/ShirshenduR/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShirshenduR&theme=tokyonight&hide_border=false)
 
 ---
 
