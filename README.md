@@ -55,8 +55,9 @@ Outside of code, I vibe to music on Spotify and dive into open-source.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshenduR&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShirshenduR&theme=tokyonight&hide_border=false)
+## 📈 GitHub Streak
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ShirshenduR&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 ---
 
 ## 📫 Connect with Me
