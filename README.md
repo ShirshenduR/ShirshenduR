@@ -76,6 +76,11 @@ Outside of code, I vibe to music on Spotify and dive into open-source.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+---
+
+## Meshery Badges
+
+[![First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/ccb3c48a-5bb7-484e-899e-6992fcfa2ac9?tab=badges&badge=first-design)
 
 ---
 
