@@ -55,6 +55,25 @@ Outside of code, I vibe to music on Spotify and dive into open-source.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshenduR&layout=compact&theme=tokyonight)
 
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=steam-bell-92&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  <img src="https://img.shields.io/github/stars/ShirshenduR?label=Star%20Gazers&style=social">
+  
+  ![Shirshendu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShirshenduR&show_icons=true&rank_icon=percentile&theme=github_dark&cache_seconds=600&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+  <details>
+    <summary>𖤍 If wanna see my rank</summary>
+    <img src= "https://github-readme-stats.vercel.app/api?username=ShirshenduR&show_icons=true&theme=github_dark&cache_seconds=600&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt = "Anuj's GitHub Stats">
+  </details>
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshenduR&langs_count=8&theme=github_dark)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShirshenduR&theme=dark)
+  
+  ![Anuj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShirshenduR&theme=github-dark)
+
+
 ## 📈 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShirshenduR&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
