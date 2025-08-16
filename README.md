@@ -115,5 +115,11 @@ Outside of code, I vibe to music on Spotify and dive into open-source.
 
 ---
 
+## Snake Eating My Contributions
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/ShirshenduR/ShirshenduR/output/snake.svg#gh-dark-mode-only)
+
+---
+
 > “Keep calm and push to main.” 🚀  
 Thanks for stopping by! Let’s build something impactful together!
