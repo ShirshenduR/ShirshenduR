@@ -63,10 +63,6 @@ Outside of code, I vibe to music on Spotify and dive into open-source.
   ![Shirshendu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShirshenduR&show_icons=true&rank_icon=percentile&theme=github_dark&cache_seconds=600&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
   <details>
-    <summary>𖤍 If wanna see my rank</summary>
-    <img src= "https://github-readme-stats.vercel.app/api?username=ShirshenduR&show_icons=true&theme=github_dark&cache_seconds=600&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt = "Anuj's GitHub Stats">
-  </details>
-  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshenduR&langs_count=8&theme=github_dark)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShirshenduR&theme=dark)
