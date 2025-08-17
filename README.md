@@ -69,9 +69,6 @@ Outside of code, I vibe to music on Spotify and dive into open-source.
   ![Anuj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShirshenduR&theme=github-dark)
 
 
-## 📈 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShirshenduR&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 ---
 
 ## 📫 Connect with Me
