@@ -56,7 +56,7 @@ Outside of code, I vibe to music on Spotify and dive into open-source.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShirshenduR&layout=compact&theme=tokyonight)
 
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=steam-bell-92&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ShirshenduR&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
   <img src="https://img.shields.io/github/stars/ShirshenduR?label=Star%20Gazers&style=social&cacheSeconds=2">
   
@@ -66,7 +66,7 @@ Outside of code, I vibe to music on Spotify and dive into open-source.
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShirshenduR&theme=dark)
   
-  ![Anuj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShirshenduR&theme=github-dark)
+  ![Shirsh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShirshenduR&theme=github-dark)
 
 
 ---
