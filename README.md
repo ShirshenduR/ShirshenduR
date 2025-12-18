@@ -101,15 +101,10 @@
 <div align="center">
   <h2>📈 GitHub Analytics</h2>
 
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShirshenduR&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+![Shirshendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShirshenduR&show_icons=true&theme=radical)
   
   <br/><br/>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShirshenduR&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
+  ![Generated Image](https://commit-streak.heidenstedt.org/generate?githubUser=ShirshenduR&mode=null&strictness=null&bonusDayEvery=3)
 
 ---
 
