@@ -1,21 +1,18 @@
 <div align="center">
- 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F8CFF&background=00000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shirshendu+R+Tripathi;Software+Developer+in+the+Making;Full+Stack+Wizard;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=250&section=header&text=Shirshendu%20Ranjana%20Tripathi&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Architect%20•%20AI%20-%20ML%20Enthusiast%20•%20Web3%20Dev&descAlignY=51&descAlign=50&fontColor=ffffff&descColor=ffffff" />
+</div>
 
-  <p>
-    <a href="https://github.com/ShirshenduR">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://linkedin.com/in/shirshendu-r-tripathi-84b481324">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/Shirshendu_R">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="mailto:shirsh8924@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8CFF&background=00000000&center=true&vCenter=true&width=600&lines=Building+Enterprise+Scale+Systems;Finalist+@+Hack+the+Future+2025;Architecting+Next+Gen+AI+Models;Mentoring+Open+Source+Talent" alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shirshendur) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shirsh8924@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Shirshendu_R)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=html5&logoColor=white)](https://github.com/ShirshenduR)
+
 </div>
 
 ---
@@ -26,20 +23,21 @@
       <td width="60%" align="left" valign="center">
         <h2>⚡ About Me</h2>
         <p>
-           🎓 I'm currently pursuing my <b>B.Tech at IIIT Jabalpur</b>.<br>
-           💻 Passionate about crafting <b>scalable backend systems</b> and experimenting with <b>AI/ML</b>.<br>
-           🎵 When I'm not debugging, I'm vibing to Spotify or diving into Open Source.
+           🎓 <b>Software Engineer in the Making</b> at IIITDM Jabalpur.<br>
+           💻 I am a pure technologist focused on <b>System Design</b>, <b>AI Architecture</b>, and <b>Decentralized Web</b>.<br>
+           🚀 My code powers scalable backends and intelligent agents. I don't just build; I optimize.<br>
+           🤝 Recognized as a top mentor in the Indian open-source ecosystem.
         </p>
         <br>
-        <h3>🌱 Currently Learning</h3>
+        <h3>🌱 Current Focus</h3>
         <ul>
-            <li>🚀 MERN Stack Backend Engineering</li>
-            <li>🤖 AI/ML for Intelligent Apps</li>
-            <li>🔐 Microservices & Auth Systems</li>
+            <li>🔐 <b>Web3:</b> Solana (Rust) & Smart Contracts</li>
+            <li>🤖 <b>GenAI:</b> LLM Fine-tuning & Hugging Face Transformers</li>
+            <li>☁️ <b>Cloud Native:</b> Kubernetes, Terraform & AWS</li>
         </ul>
       </td>
       <td width="40%" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="100%">
       </td>
     </tr>
   </table>
@@ -47,84 +45,104 @@
 
 ---
 
+### 🏆 Elite Achievements
+
 <div align="center">
-  <h2>🛠️ Tech Arsenal</h2>
 
-  <h3 align="center">💻 Languages</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+| Award | Event | Year |
+| :--- | :--- | :--- |
+| 🥇 **Best Technical Design Winner** | **NiDAR 2026** | 2026 |
+| 🥈 **Finalist** | **Hack the Future 2025 (MOSPI @ IITGN)** | 2025 |
+| 🌟 **Top 50 Mentor (All India)** | **GirlScript Summer of Code (GSSOC)** | 2025 |
 
-  <br/>
-
-  <h3 align="center">🎨 Frontend</h3>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-  <br/>
-
-  <h3 align="center">📡 Backend & Databases</h3>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-
-  <br/>
-
-  <h3 align="center">☁️ DevOps & Cloud</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-
-  <br/>
-
-  <h3 align="center">🛠️ Tools & Others</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
-  
 </div>
 
 ---
 
-<div align="center">
-  <h2>📈 GitHub Analytics</h2>
+### 🛠️ Massive Tech Arsenal
 
-![Shirshendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShirshenduR&show_icons=true&theme=radical)
-  
-  <br/><br/>
-  ![Generated Image](https://commit-streak.heidenstedt.org/generate?githubUser=ShirshenduR&mode=null&strictness=null&bonusDayEvery=3)
+<div align="center">
+
+#### **Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### **AI, ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-%2300FFFF.svg?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+#### **Full Stack Frameworks**
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+#### **Cloud, DevOps & Architecture**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### **Blockchain & Web3**
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+
+</div>
 
 ---
 
+### 📊 GitHub Analytics
+
 <div align="center">
-  
-  <br/><br/>
 
-  <a href="https://cloud.layer5.io/user/ccb3c48a-5bb7-484e-899e-6992fcfa2ac9?tab=badges&badge=first-design">
-    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" width="120"/>
-  </a>
-  
-  <a href="https://holopin.io/@shirshendur">
-    <img src="https://holopin.me/shirshendur" alt="Holopin Badges" height="200" />
-  </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShirshenduR&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+</a>
 
-  <br/><br/>
+<br/><br/>
+
+<a href="https://github.com/ShirshenduR">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShirshenduR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ShirshenduR">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShirshenduR&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true" alt="Jokes Card" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ShirshenduR&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<br/><br/>
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
   
-  <br/>
-  
-  <i>“Keep calm and push to main.” 🚀</i>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=100&section=footer" />
+</p>
