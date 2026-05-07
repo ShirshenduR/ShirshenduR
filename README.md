@@ -51,6 +51,7 @@
 
 | Award | Event | Year |
 | :--- | :--- | :--- |
+|🥇 **ElevenLabs Sponsor Track Winner** | **MLH HackByte 4.0** | 2026 |
 | 🥇 **Best Technical Design Winner** | **NiDAR 2026** | 2026 |
 | 🥈 **Finalist** | **Hack the Future 2025 (MOSPI @ IITGN)** | 2025 |
 | 🌟 **Top 50 Mentor (All India)** | **GirlScript Summer of Code (GSSOC)** | 2025 |
@@ -115,18 +116,6 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=ShirshenduR&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ShirshenduR">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShirshenduR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ShirshenduR">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShirshenduR&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" />
 </a>
 
 <br/><br/>
