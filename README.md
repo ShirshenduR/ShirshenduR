@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shirshendur) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shirsh8924@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Shirshendu_R)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=html5&logoColor=white)](https://github.com/ShirshenduR)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=html5&logoColor=white)](https://shirshendu.qd.je)
 
 </div>
 
